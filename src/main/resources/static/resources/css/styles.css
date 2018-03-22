@@ -1,0 +1,66 @@
+.new-student-form, .student-login-form {
+	max-width: 550px;
+}
+
+.top-padding {
+	padding-top: 80px;
+}
+
+.navigation {
+	list-style-type: none;
+}
+
+.navigation li {
+	display: inline-block;
+	margin-right: 35px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.navigation {
+	margin-left: 0px;	
+	padding-left: 0px;
+}
+
+.navigation li a {
+	color: #182462;
+}
+
+h3.title {
+	text-align: center;
+	margin-bottom: 40px;
+	color: #ff6666;
+}
+
+table {
+	max-width: 100%;
+}
+
+.error {
+	color: red;
+}
+
+.box {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background: #5ca5cc;
+	text-align: center;
+}
+
+.box a {
+	color: #fff;
+}
+
+.box-2 {
+	background: #026d62;
+}
+
+.profile-pic {
+	border-radius: 50%;
+}
+
+.hidden {
+	display: none;
+	visibility: none;
+}

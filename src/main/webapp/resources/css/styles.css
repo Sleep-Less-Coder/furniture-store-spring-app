@@ -1,0 +1,73 @@
+.container {
+	padding-top: 40px;
+}
+
+h1, h3 {
+	font-family: 'Helvetica Neue', sans-serif;
+	font-weight: 200;
+}
+
+.hidden {
+	display: none;
+	visibility: none;
+}
+
+.inline-btn {
+	display: inline-block;
+}
+
+.product-image {
+	max-height: 180px;
+}
+
+.product-name {
+	color: #008080;
+	font-weight: bold;
+}
+
+.price {
+	padding-top: 8px;
+	font-style: italic;
+}
+
+.details-link {
+	opacity: 0.5;
+	color: black;
+}
+
+.common-margin {
+	margin-top: 8px;
+}
+
+.my-order-btn {
+	margin-bottom: 20px;
+}
+
+.detail-page-image {
+	max-height: 300px;
+}
+
+.product-desc {
+	max-width: 500px;
+}
+
+.home-title-link {
+	text-decoration: none;
+	color: #000;
+}
+
+.home-title-link:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+.error-message {
+	color: red;
+	font-style: italic;
+	margin-left: 5px;
+}
+
+.customer-chooser {
+	max-width: 300px;
+	margin-bottom: 10px;
+}
